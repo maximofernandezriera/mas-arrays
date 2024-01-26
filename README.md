@@ -10,4 +10,4 @@
 ## Si indicamos "%-10s %-10s %-10s%n" en una cadena de formato tendremos lo siguiente:
 
 ## Cada %s indica que se espera una cadena de caracteres (String). 
-# El -10 especifica que cada cadena de caracteres debe tener un ancho mínimo de 10 caracteres.
+## El -10 especifica que cada cadena de caracteres debe tener un ancho mínimo de 10 caracteres.
