@@ -11,3 +11,10 @@
 
 ## Cada %s indica que se espera una cadena de caracteres (String). 
 ## El -10 especifica que cada cadena de caracteres debe tener un ancho mínimo de 10 caracteres.
+
+# Así podríamos aplicar el siguiente formato: "%-10d %-10d %-10d%n"
+
+## %d: Indica que se espera un número entero (int).
+## -10: Establece un ancho mínimo de 10 caracteres para cada número. Si el número tiene menos de 10 dígitos, se añaden espacios hasta completar los 10 caracteres.
+## -: Indica que la alineación del número será a la izquierda dentro de esos 10 espacios.
+## %n: Representa un salto de línea, similar a \n.
